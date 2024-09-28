@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+}
+.tartiblanmaganlist{
+    list-style-type: square;
+      list-style-position: inside;
+}
+.tartiblanganlist{
+    list-style-type: lower-roman;
+      list-style-position: outside;
+}
+.rasmliul{
+    list-style-image: url("../img/listbg.jpg");
+}
